@@ -1,0 +1,7 @@
+[submodule "themes/pelican-simplegrey"]
+	path = themes/pelican-simplegrey
+	url = https://github.com/fle/pelican-simplegrey
+[submodule "output"]
+	path = output
+	url = git@github.com:tudorsmt/tudorsmt.github.io.git
+	branch = master
